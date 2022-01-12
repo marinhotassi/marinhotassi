@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div> 
+
  
-  ##
- 
- 
-   ![Snake animation](https://github.com/marinhotassi/marinhotassi/blob/output/github-contribution-grid-snake.svg)
+ ## Watch my contribution graph eaten by the snake🐍
+ ![Snake animation](https://github.com/marinhotassi/marinhotassi/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
  
