@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <div> 
   <a href = "mailto:tassianamarinho2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tassiana-m-84a3b2199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCSCVVy4Gu1IXtvSN8C3RaRw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
 ![snake gif](https://github.com/marinhotassi/marinhotassi/blob/output/github-contribution-grid-snake.gif)
 
